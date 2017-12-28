@@ -20,7 +20,7 @@
         "display5Font": "Bree Serif",
         "display5Size": 1.5,
         "display7Font": "Bree Serif",
-        "display7Size": 1,
+        "display7Size": "1",
         "display4Font": "Bree Serif",
         "display4Size": "1.4",
         "isRoundedButtons": true,
